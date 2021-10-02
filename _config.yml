@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook: Beritaistic
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram: beritaistic
   linkedin: melanie-agustine94
   pinterest: beritaistic
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://tristinagra.github.io/
+url: https://racunshopee.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
