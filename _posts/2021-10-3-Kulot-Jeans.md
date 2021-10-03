@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOTD itu apa dalam bahasa gaul?
+title: Kulot Jeans
 ---
 
 ![kulot jeans](https://1.bp.blogspot.com/-W3vu1R2EQYU/YVZux6dJKDI/AAAAAAAABRI/bJkRSJ6WGkcSotXUFOCbB1JBkqa3ND91wCLcBGAsYHQ/w320-h320/HW%2BKulot%2BJeans%2B%25282%2529.jpg)
